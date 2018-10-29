@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540764798 source:/Volumes/Scyndi/Projects/applications/C/Learning/C/Oef6/JustTestingEverythingOut/main.c
+	<stdio.h>
+	<stdlib.h>
+
